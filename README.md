@@ -1,5 +1,5 @@
 ## Rock Paper Scissors image classification on ESP32 Board
-#### Rayan Malik (100063470) and Wahaj Ahmed (100063485)
+#### Rayan Malik
 
 In this tutorial, we aim to train an image classification model, and use an ESP32 microcomputer board for inference. We go through the hardware and software configuration of the board, as well as the process to create a Tensorflow Lite model suitable for the limited hardware available. 
 
